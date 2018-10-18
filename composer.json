@@ -1,0 +1,15 @@
+{
+    "name": "wildcodeschool/quetes_php_cookies_sessions",
+    "authors": [
+        {
+            "name": "Sambon Julien",
+            "email": "steeper@live.fr"
+        }
+    ],
+    "require": {},
+        "autoload": {
+        "psr-4": {
+            "": "public"
+        }
+    }
+}
